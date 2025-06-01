@@ -1,0 +1,5 @@
+Initial string: Hello, World!
+13 15
+After reserving space:
+Length: 13
+Capacity: 100
